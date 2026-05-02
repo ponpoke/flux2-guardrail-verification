@@ -19,6 +19,7 @@ tags:
 # FLUX.2-klein-4B DiT Internal Analysis: Debunking the Guardrail Myth & Proof of Knowledge Gap
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ponpoke)
+*Tips are greatly appreciated and help sustain the compute resources needed for further research!*
 
 ## Overview
 This repository provides an analytical toolkit designed to verify whether the Diffusion Transformer (DiT) engine of FLUX.2-klein-4B contains hidden "guardrail circuits" that intentionally block, noise, or distort extreme image generation. 
